@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Dan GB
+# Daniel García Bernardino.
 
 `s0mething4saken`
 
@@ -16,34 +16,33 @@
 
 ## About
 
-Developer with experience across the stack — from desktop applications and relational databases to layered web backends and data pipelines. Curious by default, versatile by practice.
-
+Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a backends web multi-capa y pipelines en datos. Curious by default, versatilidad puesta en práctica.
 ---
 
 ## Tech
 
 | Area | Tools |
 |------|-------|
-| Languages | Python, Java, JavaScript, SQL |
-| Desktop | Tkinter, SQLite |
-| Backend | Spring Boot, PostgreSQL, Docker |
-| Data | PySpark, Jupyter |
-| Other | Git, Layered architecture, ETL |
+| Lenguajes | Python, Java, JavaScript, SQL |
+| Backend | Spring Boot, PostgreSQL, Docker y PostMan |
+| Bases de Datos | MySQL, PostgreSQL y SQLite  |
+| Datos | PySpark, Jupyter, Pandas y MatplotLib |
+| Other | Git, Arquitectura en capas, ETL|
 
 ---
 
 ## Projects
 
 **[InventarioAbeemestra](https://github.com/s0mething4saken/InventarioAbeemestra)**  
-Desktop application for inventory management built with Python and Tkinter. Includes SQLite persistence and dashboards for data visualization and analysis.  
+Aplicación de escritorio para manejo de inventario, construido en Python con Tkinter. Incluye persistencia con SQLite y dashboards para visualización de datos y análisis.
 `Python` `Tkinter` `SQLite`
 
 **[inspeccionExtintores](https://github.com/s0mething4saken/inspeccionExtintores)**  
-Web solution for tracking and managing fire extinguisher inspections. Built with a layered architecture (Controller, Service, Repository), PostgreSQL for persistence and containerized with Docker.  
+Solución web para rastrear y manejar inspecciones de extintores. Construido con una arquitectura en capas (Controller, Service, Repository), PostgreSQL para persistencia de datos y contenerizado con Docker.
 `Java` `Spring Boot` `PostgreSQL` `Docker`
 
 **[Ecobici-ETL-Analisis](https://github.com/s0mething4saken/Ecobici-ETL-Analisis)**  
-ETL pipeline over ECOBICI open data (2012). Cleaning, PySpark transforms, SQL queries and usage pattern visualizations — peak hours, station demand, user behavior.  
+ETL pipeline de datos abiertos "ECOBICI". Limpieza, trasnformaciones en PySpark, Queries en SQL y uso de visualizaciones de patrones - horas pico, demanda de estaciones y comportamiento del usuario.
 `Python` `PySpark` `SQL` `Jupyter`
 
 ---
