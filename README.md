@@ -16,7 +16,7 @@
 
 ## About
 
-Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a backends web multi-capa y pipelines en datos. Curious by default, versatilidad puesta en práctica.
+Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a backends web multi-capa y pipelines en datos. Curious by default, versatilidad puesta en práctica. Cuento con inglés B2.
 ---
 
 ## Tech
@@ -31,7 +31,7 @@ Desarrollador con experiencia en varias tecnologías "across the stack" - desde 
 
 ---
 
-## Projects
+## Proyectos
 
 **[InventarioAbeemestra](https://github.com/s0mething4saken/InventarioAbeemestra)**  
 Aplicación de escritorio para manejo de inventario, construido en Python con Tkinter. Incluye persistencia con SQLite y dashboards para visualización de datos y análisis.
