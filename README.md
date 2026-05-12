@@ -5,10 +5,10 @@
 
 `s0mething4saken`
 
-![Frontend](https://img.shields.io/badge/Frontend-E6F1FB?style=flat-square&color=0C447C)
+![Full-Stack](https://img.shields.io/badge/Frontend-E6F1FB?style=flat-square&color=0C447C)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-E1F5EE?style=flat-square&color=085041)
-![Fullstack](https://img.shields.io/badge/Fullstack-EEEDFE?style=flat-square&color=3C3489)
-![SEO](https://img.shields.io/badge/SEO-F1EFE8?style=flat-square&color=444441)
+![Web Developing](https://img.shields.io/badge/Fullstack-EEEDFE?style=flat-square&color=3C3489)
+![Data Analysis](https://img.shields.io/badge/SEO-F1EFE8?style=flat-square&color=444441)
 
 </div>
 
