@@ -16,7 +16,7 @@
 
 ## About
 
-Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a backends web multi-capa y pipelines en datos. Curious by default, versatilidad puesta en práctica. Cuento con inglés B2.
+Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a  pipelines ETL en datos.
 ---
 
 ## Tech
