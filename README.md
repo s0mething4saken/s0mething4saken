@@ -16,7 +16,7 @@
 
 ## About
 
-Desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a  pipelines ETL en datos.
+¡Hola! Soy Daniel, desarrollador con experiencia en varias tecnologías "across the stack" - desde aplicaciones de escritorio y bases de datos relacionales a  pipelines ETL en datos. Soy egresado de ingeniería en computación y me gusta realizar soluciones en Java utilizando Spring Boot, también analizar datos y construir pipelines ETL en Python además de realizar aplicaciones de escritorio igualmente en Python utilizando Tkinter.
 ---
 
 ## Tech
